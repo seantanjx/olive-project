@@ -12,7 +12,7 @@
 <h3 align="center">Olive Project</h3>
 
   <p align="center">
-    A real-time dashboard in collaboration with __Aramco Trading__ to track oil prices in Japan and New Zealand.
+    A real-time dashboard in collaboration with <strong>Aramco Trading</strong> to track oil metrics in Japan and New Zealand.
     <br />
     <br />
     <a href="https://oliveproject.netlify.app/#/">View Demo</a>
@@ -21,8 +21,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://drive.google.com/file/d/1KiIrbOujM7L406wyhbnFD4PYiHve-Ik4/view?usp=sharing)
+[![Olive-Project][product-screenshot]](https://oliveproject.netlify.app/#/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -41,12 +40,11 @@
 ## Contact
 
 Sean Tan - [LinkedIn](https://linkedin.com/in/sean-tan-jx) - [Email](mailto:seantan1710@gmail.com)
-
+<br/>
 Project Link: [https://github.com/seantanjx/olive-project](https://github.com/seantanjx/olive-project)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
 * [Ying Ting Ng](https://www.linkedin.com/in/ying-ting-ng/)
@@ -62,4 +60,4 @@ Project Link: [https://github.com/seantanjx/olive-project](https://github.com/se
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/sean-tan-jx
-[product-screenshot]: https://drive.google.com/file/d/1KiIrbOujM7L406wyhbnFD4PYiHve-Ik4/view?usp=sharing
+[product-screenshot]: https://drive.google.com/uc?export=view&id=1KiIrbOujM7L406wyhbnFD4PYiHve-Ik4
