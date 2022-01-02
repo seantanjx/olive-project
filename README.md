@@ -39,7 +39,7 @@
 
 Sean Tan - [LinkedIn](https://linkedin.com/in/sean-tan-jx) - [Email](mailto:seantan1710@gmail.com)
 <br/>
-Project Link: [https://github.com/seantanjx/olive-project](https://github.com/seantanjx/olive-project)
+Project Brief: [Olive-Project.pdf](https://drive.google.com/file/d/17Cx85wO4qaeyUbYa_CTs9S4S54Ct1uvu/view?usp=sharing)
 
 ## Acknowledgments
 
