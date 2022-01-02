@@ -25,8 +25,6 @@
 
 [![Olive-Project][product-screenshot]](https://oliveproject.netlify.app/#/)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ### Built With
 
 - [Vue.js](https://vuejs.org/)
@@ -35,8 +33,6 @@
 - [Apache POI](https://poi.apache.org/)
 - [JSoup](https://jsoup.org/)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- CONTACT -->
 
 ## Contact
@@ -44,8 +40,6 @@
 Sean Tan - [LinkedIn](https://linkedin.com/in/sean-tan-jx) - [Email](mailto:seantan1710@gmail.com)
 <br/>
 Project Link: [https://github.com/seantanjx/olive-project](https://github.com/seantanjx/olive-project)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Acknowledgments
 
